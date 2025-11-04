@@ -2,7 +2,7 @@
 - 👀 I’m interested in working with data, Machine Learning and Deep Learning
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Convolutional Neural Network model
-- 📫 How to reach me abdulrasheed1011@icloud.com
+- 📫 How to reach me abdulrasheed101198@gmail.com
 - 😄 Pronouns: he/him
 
 
